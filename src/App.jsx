@@ -164,13 +164,18 @@ export default function Portfolio() {
             <div className="space-y-6 text-gray-300">
               <p className="text-lg">
                 I'm a Master's student in Computer Science at the University of Florida (GPA: 3.72), 
-                with a strong foundation in backend development and distributed systems.
+                with a strong foundation in backend development.
               </p>
               <p className="text-lg">
                 My experience includes developing APIs for DoD systems at Epsilon C5I and building 
                 production microservices at Dell Technologies that handle millions of dollars in sales. 
                 I specialize in C++, C#, .NET Core, and have a strong background in systems programming, 
                 networking, and DevOps practices.
+              </p>
+              <p className="text-lg">
+                I am a US citizen, but have lived in multiple countries. I believe that this diversity 
+                has enriched my problem-solving abilities and creativity, allowing me to approach tasks 
+                from multiple angles and find innovative solutions.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mt-8">
                 <div>
@@ -183,8 +188,8 @@ export default function Portfolio() {
                     </div>
                     <div>
                       <p className="font-semibold">Mahindra University</p>
-                      <p className="text-sm text-gray-400">BTech CSE | GPA: 8.06/10</p>
-                      <p className="text-sm text-gray-400">Rank 27/214</p>
+                      <p className="text-sm text-gray-400">BTech Computer Science Engineering | GPA: 8.06/10</p>
+                      <p className="text-sm text-gray-400">Sept 2020 - Aug 2024 | Rank 27/214</p>
                     </div>
                   </div>
                 </div>
@@ -194,7 +199,6 @@ export default function Portfolio() {
                     <li>• Top 3% in CodeKaze (200k+ participants)</li>
                     <li>• 2nd place YeetCode competition</li>
                     <li>• 2 merit scholarships (top 10%)</li>
-                    <li>• Harvard CS50 Certificate</li>
                     <li>• Secret Clearance</li>
                   </ul>
                 </div>
